@@ -23,6 +23,7 @@
 	"require": {
 		"composer/semver": "3.3.2",
 		"cssjanus/cssjanus": "2.1.0",
+		"ext-apc": "*"
 		"ext-calendar": "*",
 		"ext-ctype": "*",
 		"ext-dom": "*",
@@ -78,7 +79,6 @@
 		"wikimedia/wrappedstring": "4.0.1",
 		"wikimedia/xmp-reader": "0.9.0",
 		"zordius/lightncandy": "1.2.6"
-		"ext-apcu": "*"
 	},
 	"require-dev": {
 		"composer/spdx-licenses": "1.5.6",
