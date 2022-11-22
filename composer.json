@@ -78,6 +78,7 @@
 		"wikimedia/wrappedstring": "4.0.1",
 		"wikimedia/xmp-reader": "0.9.0",
 		"zordius/lightncandy": "1.2.6"
+		"ext-apcu": "*"
 	},
 	"require-dev": {
 		"composer/spdx-licenses": "1.5.6",
@@ -106,7 +107,6 @@
 		"symfony/polyfill-mbstring": "1.99"
 	},
 	"suggest": {
-		"ext-apcu": "Faster web responses overall.",
 		"ext-curl": "Faster HTTP services, e.g. when using InstantCommons, Swift, or Etcd.",
 		"ext-gd": "Enable thumbnails for file uploads.",
 		"ext-mysqli": "Enable the MySQL and MariaDB database type for MediaWiki.",
